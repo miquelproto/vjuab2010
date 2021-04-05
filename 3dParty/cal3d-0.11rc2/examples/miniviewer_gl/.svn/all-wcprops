@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/TODO
+END
+cal3d_miniviewer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/cal3d_miniviewer.vcproj
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/configure.in
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/acinclude.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/INSTALL
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/SConscript
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/Makefile.am
+END
+cal3d_miniviewer.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/cal3d_miniviewer.dsp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/README
+END
+cal3d_miniviewer.vcproj.Killos.Marco Torres.user
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl/cal3d_miniviewer.vcproj.Killos.Marco%20Torres.user
+END

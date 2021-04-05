@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src
+END
+tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src/tick.h
+END
+viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src/viewer.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src/main.cpp
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src/global.h
+END
+viewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src/viewer.h
+END
+tick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_d3d_vs/src/tick.cpp
+END

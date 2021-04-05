@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/Code/Engine/Graphics/Texture
+END
+Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/83/trunk/Code/Engine/Graphics/Texture/Texture.cpp
+END
+TextureManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/Code/Engine/Graphics/Texture/TextureManager.h
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/83/trunk/Code/Engine/Graphics/Texture/Texture.h
+END
+TextureManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/83/trunk/Code/Engine/Graphics/Texture/TextureManager.cpp
+END

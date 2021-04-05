@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/162/trunk/Run/Test/Data
+END
+actions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/100/trunk/Run/Test/Data/actions.xml
+END
+init.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/84/trunk/Run/Test/Data/init.xml
+END
+enemies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/58/trunk/Run/Test/Data/enemies.xml
+END
+mi1ermesh.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/162/trunk/Run/Test/Data/mi1ermesh.mesh
+END

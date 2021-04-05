@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/Code/Engine/Graphics/AnimationModel
+END
+AnimatedModelManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/156/trunk/Code/Engine/Graphics/AnimationModel/AnimatedModelManager.cpp
+END
+AnimatedCoreModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/154/trunk/Code/Engine/Graphics/AnimationModel/AnimatedCoreModel.h
+END
+AnimatedModelManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/152/trunk/Code/Engine/Graphics/AnimationModel/AnimatedModelManager.h
+END
+AnimatedInstanceModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/161/trunk/Code/Engine/Graphics/AnimationModel/AnimatedInstanceModel.cpp
+END
+AnimatedCoreModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/153/trunk/Code/Engine/Graphics/AnimationModel/AnimatedCoreModel.cpp
+END
+AnimatedInstanceModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/151/trunk/Code/Engine/Graphics/AnimationModel/AnimatedInstanceModel.h
+END

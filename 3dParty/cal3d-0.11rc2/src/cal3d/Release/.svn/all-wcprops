@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release
+END
+renderer.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/renderer.obj
+END
+submesh.obj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/submesh.obj
+END
+corematerial.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/corematerial.obj
+END
+physique.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/physique.obj
+END
+animation_action.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/animation_action.obj
+END
+coretrack.obj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coretrack.obj
+END
+mt.dep
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/mt.dep
+END
+tinyxmlerror.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/tinyxmlerror.obj
+END
+BuildLog.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/BuildLog.htm
+END
+coresubmorphtarget.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coresubmorphtarget.obj
+END
+saver.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/saver.obj
+END
+tinyxmlparser.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/tinyxmlparser.obj
+END
+bone.obj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/bone.obj
+END
+skeleton.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/skeleton.obj
+END
+mixer.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/mixer.obj
+END
+cal3d_wrapper.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/cal3d_wrapper.obj
+END
+coreanimation.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coreanimation.obj
+END
+corebone.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/corebone.obj
+END
+mesh.obj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/mesh.obj
+END
+coreskeleton.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coreskeleton.obj
+END
+animation_cycle.obj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/animation_cycle.obj
+END
+morphtargetmixer.obj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/morphtargetmixer.obj
+END
+tinyxml.obj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/tinyxml.obj
+END
+cal3d.dll.intermediate.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/cal3d.dll.intermediate.manifest
+END
+coremesh.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coremesh.obj
+END
+cal3d.res
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/cal3d.res
+END
+loader.obj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/loader.obj
+END
+springsystem.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/springsystem.obj
+END
+coremodel.obj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coremodel.obj
+END
+corekeyframe.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/corekeyframe.obj
+END
+streamsource.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/streamsource.obj
+END
+hardwaremodel.obj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/hardwaremodel.obj
+END
+coresubmesh.obj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coresubmesh.obj
+END
+animation.obj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/animation.obj
+END
+platform.obj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/platform.obj
+END
+quaternion.obj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/quaternion.obj
+END
+error.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/error.obj
+END
+buffersource.obj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/buffersource.obj
+END
+coremorphanimation.obj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/coremorphanimation.obj
+END
+model.obj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/model.obj
+END
+global.obj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/global.obj
+END
+vector.obj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/vector.obj
+END
+matrix.obj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/matrix.obj
+END
+vc90.idb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/src/cal3d/Release/vc90.idb
+END

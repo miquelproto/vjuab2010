@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src
+END
+BaseMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseMaterial.h
+END
+MeshCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/MeshCandidate.h
+END
+MaterialCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/MaterialCandidate.h
+END
+BaseInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseInterface.h
+END
+SubmeshCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/SubmeshCandidate.cpp
+END
+Exporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/Exporter.cpp
+END
+SubmeshCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/SubmeshCandidate.h
+END
+Lodder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/Lodder.cpp
+END
+VertexCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/VertexCandidate.cpp
+END
+Exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/Exporter.h
+END
+Lodder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/Lodder.h
+END
+VertexCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/VertexCandidate.h
+END
+MaterialLibraryCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/MaterialLibraryCandidate.cpp
+END
+BaseNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseNode.cpp
+END
+BoneCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BoneCandidate.cpp
+END
+SkeletonCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/SkeletonCandidate.cpp
+END
+BaseNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseNode.h
+END
+BoneCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BoneCandidate.h
+END
+MaterialLibraryCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/MaterialLibraryCandidate.h
+END
+SkeletonCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/SkeletonCandidate.h
+END
+BaseMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseMesh.cpp
+END
+Quadric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/Quadric.cpp
+END
+MeshCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/MeshCandidate.cpp
+END
+BaseMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseMaterial.cpp
+END
+MaterialCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/MaterialCandidate.cpp
+END
+BaseInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseInterface.cpp
+END
+BaseMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/BaseMesh.h
+END
+Quadric.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/Quadric.h
+END

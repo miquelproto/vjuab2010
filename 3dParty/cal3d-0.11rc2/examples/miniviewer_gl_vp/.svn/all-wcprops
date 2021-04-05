@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp
+END
+cal3d_miniviewer_gl_vp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/cal3d_miniviewer_gl_vp.dsp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/INSTALL
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/acinclude.m4
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/ChangeLog
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/SConscript
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/README
+END

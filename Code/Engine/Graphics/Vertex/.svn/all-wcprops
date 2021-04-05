@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/Code/Engine/Graphics/Vertex
+END
+IndexedVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/100/trunk/Code/Engine/Graphics/Vertex/IndexedVertex.h
+END
+VertexType.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/123/trunk/Code/Engine/Graphics/Vertex/VertexType.h
+END
+RenderableVertex.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/100/trunk/Code/Engine/Graphics/Vertex/RenderableVertex.h
+END
+IndexedVertexs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/94/trunk/Code/Engine/Graphics/Vertex/IndexedVertexs.h
+END

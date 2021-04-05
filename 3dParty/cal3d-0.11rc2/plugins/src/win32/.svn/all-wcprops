@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32
+END
+MaterialExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialExportSheet.h
+END
+AnimationTimePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/AnimationTimePage.h
+END
+MaterialSelectionPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialSelectionPage.cpp
+END
+SpringSystemPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SpringSystemPage.cpp
+END
+SelectionDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SelectionDialog.cpp
+END
+MaterialSelectionPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialSelectionPage.h
+END
+BoneAssignmentPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/BoneAssignmentPage.cpp
+END
+SpringSystemPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SpringSystemPage.h
+END
+SelectionDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SelectionDialog.h
+END
+AnimationExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/AnimationExportSheet.cpp
+END
+MaterialMapsPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialMapsPage.cpp
+END
+LevelOfDetailPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/LevelOfDetailPage.cpp
+END
+MaterialMapDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialMapDialog.cpp
+END
+BoneAssignmentPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/BoneAssignmentPage.h
+END
+AnimationExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/AnimationExportSheet.h
+END
+SkeletonExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SkeletonExportSheet.cpp
+END
+SkeletonHierarchyPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SkeletonHierarchyPage.cpp
+END
+MaterialMapsPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialMapsPage.h
+END
+MaterialMapDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialMapDialog.h
+END
+SkeletonFilePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SkeletonFilePage.cpp
+END
+LevelOfDetailPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/LevelOfDetailPage.h
+END
+SkeletonExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SkeletonExportSheet.h
+END
+SkeletonHierarchyPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SkeletonHierarchyPage.h
+END
+SkeletonFilePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/SkeletonFilePage.h
+END
+MeshExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MeshExportSheet.cpp
+END
+MaterialExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MaterialExportSheet.cpp
+END
+AnimationTimePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/AnimationTimePage.cpp
+END
+MeshExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/plugins/src/win32/MeshExportSheet.h
+END

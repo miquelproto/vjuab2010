@@ -1,0 +1,80 @@
+10
+
+dir
+162
+https://vjuab2010.googlecode.com/svn/trunk/3dParty/cal3d-0.11rc2/examples
+https://vjuab2010.googlecode.com/svn
+
+
+
+2010-12-21T10:27:33.924108Z
+138
+mtorres11@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+316ec207-eac3-19fc-9354-3cc8671d3e91
+
+miniviewer_gl
+dir
+
+miniviewer_d3d_vs
+dir
+
+cally
+dir
+
+miniviewer_gl_vp
+dir
+
+SConscript
+file
+
+
+
+
+2010-12-28T15:48:14.388618Z
+2c59c87594d05c4602e345f42c28cbe5
+2010-12-21T10:27:33.924108Z
+138
+mtorres11@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77
+
+miniviewer_d3d
+dir
+
+miniviewer_d3d_bump
+dir
+

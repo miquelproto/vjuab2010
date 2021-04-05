@@ -1,0 +1,133 @@
+#include "MapManager/MapManager.h"
+#include "RenderableObjectsManager.h"
+#include "RenderableObject.h"
+#include "MeshInstance.h"
+#include "xml/XMLTreeNode.h"
+#include "Logger/Logger.h"
+#include "Exceptions/Exception.h"
+#include <string>
+#include <vector>
+#include "Vertex/RenderableVertex.h"
+
+#if defined( _DEBUG )
+ #include "Memory/MemLeaks.h"
+#endif // defined( _DEBUG )
+
+
+bool CRenderableObjectsManager::Load(const std::string &FileName)
+{
+	bool l_bIsOk = true;
+	m_FileName = FileName;
+  CXMLTreeNode filexml;
+  if (!filexml.LoadFile(m_FileName.c_str()))
+  {
+		//Guardar el mensaje de error en el LOGGER
+    std::string msg_error = "RenderableObjectsManager::Load->Error al intentar leer el XML: " + m_FileName;
+		LOGGER->AddNewLog(ELL_ERROR, msg_error.c_str());
+		throw CException(__FILE__, __LINE__, msg_error);
+    l_bIsOk = false;
+  }
+  else
+  {
+		//<renderable_objs>
+		//	<object name="Box01" core="Box01" pos="2.27125 0.0 0.0" yaw="0.0" pitch="-90.0" roll="90.0"  />
+		//	<object name="Box02" core="Box02" pos="0.0 0.0 0.0" yaw="0.0" pitch="0.0" roll="0.0"  />
+		//</renderable_objs>
+
+    CXMLTreeNode renders = filexml["renderable_objs"];
+
+    if (renders.Exists())
+    {
+      int32 numNodes = renders.GetNumChildren();		
+      for(int i=0; i < numNodes; i++)
+      {
+        CXMLTreeNode object = renders(i)["object"];
+        if (object.Exists())
+        {
+           //CRenderableObjectsManager l_render_manag_object;
+           //recibe parametros
+           
+           std::string l_sObjectName = object(i).GetPszProperty("name");   
+					 std::string l_sObjectCore = object(i).GetPszProperty("core");
+           Vect3f l_V3ObjectPos = object(i).GetVect3fProperty("pos", NULL);    
+					 float l_fObjectYaw = object(i).GetFloatProperty("yaw");        
+           float l_fObjectPitch = object(i).GetFloatProperty("pitch"); 
+           float l_fObjectRoll = object(i).GetFloatProperty("roll"); 
+          
+//           CInstanceMesh *inst = new CInstanceMesh(l_sObjectName, );
+           //x = this->AddMeshInstance(GetInstance(l_sObjectName),l_sObjectName, l_sObjectPos);
+
+        }
+        else
+        {
+          l_bIsOk = false;
+        }
+      }
+    }
+    else
+    {
+      l_bIsOk = false;
+    }
+  }
+	return l_bIsOk;
+}
+
+bool CRenderableObjectsManager::Reload()
+{
+  Destroy();
+  return this->Load(m_FileName);
+}
+
+//Llamar al método update de cada uno de los elementos del vector
+void CRenderableObjectsManager::Update(float ElapsedTime)
+{
+	std::vector<CRenderableObject*>::const_iterator l_Iter = m_RenderableObjects.begin();
+  for(int i=0;l_Iter != m_RenderableObjects.end();++i, ++l_Iter) 
+  {
+    (*l_Iter)->Update(ElapsedTime);
+  }
+}
+
+//Agregar un elemento al mapa
+void CRenderableObjectsManager::AddResource(const std::string &Name, CRenderableObject *RenderableObject)
+{
+	CMapManager <CRenderableObject> l_temp;
+	l_temp.AddResource(Name, RenderableObject);
+}
+
+//Devolver el CORE del elemento a buscar
+CRenderableObject * CRenderableObjectsManager::GetInstance(const std::string &Name) const
+{
+	CMapManager <CRenderableObject> l_temp;
+	return l_temp.GetResource(Name);
+}
+
+//Llamar al método render de cada uno de los elementos del vector
+void CRenderableObjectsManager::Render(CRenderManager *RM)
+{
+	std::vector<CRenderableObject*>::const_iterator l_Iter = m_RenderableObjects.begin();
+  for(int i=0;l_Iter != m_RenderableObjects.end();++i, ++l_Iter) 
+  {
+    (*l_Iter)->Render(RM);
+  }
+}
+
+//Añadir un CRenderableObject de tipo CMeshInstance que tiene una static mesh con su posición, rotación, etc.
+CRenderableObject * CRenderableObjectsManager::AddMeshInstance(const std::string &CoreMeshName, const std::string &InstanceName, const Vect3f &Position)
+{
+  return 0;
+}
+
+//Limpia el mapa y el vector
+//En el mapa están todos ordenados por el nombre y en el vector están todos seguidos en un vector.
+void CRenderableObjectsManager::CleanUp()
+{
+	//eliminar el vector
+	m_RenderableObjects.clear();
+	//eliminar el mapa
+	Destroy();
+}
+
+
+
+

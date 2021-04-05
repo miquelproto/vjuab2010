@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src
+END
+glew.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/glew.c
+END
+tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/tick.h
+END
+tga.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/tga.h
+END
+viewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/viewer.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/main.cpp
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/global.h
+END
+viewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/viewer.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/Makefile.am
+END
+tick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/tick.cpp
+END
+tga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/miniviewer_gl_vp/src/tga.cpp
+END

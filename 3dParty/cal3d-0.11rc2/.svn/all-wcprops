@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/161/trunk/3dParty/cal3d-0.11rc2
+END
+cal3d.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/cal3d.sln
+END
+cal3d.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/cal3d.dsw
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/ChangeLog
+END
+cal3d.ncb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/161/trunk/3dParty/cal3d-0.11rc2/cal3d.ncb
+END
+cal3d.suo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/161/trunk/3dParty/cal3d-0.11rc2/cal3d.suo
+END
+cal3d.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/cal3d.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/README
+END
+fileformats.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/fileformats.txt.in
+END
+cal3d_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/cal3d_d.lib
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/INSTALL
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/acinclude.m4
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/SConstruct
+END
+cal3d_d.ilk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/cal3d_d.ilk
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/Makefile.am
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/stamp-h.in
+END

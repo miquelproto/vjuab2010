@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/tests
+END
+run.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/tests/run.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/tests/Makefile.am
+END

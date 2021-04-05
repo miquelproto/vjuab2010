@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/58/trunk/Run/Test/Data/Language
+END
+catalan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/trunk/Run/Test/Data/Language/catalan.xml
+END
+spanish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/trunk/Run/Test/Data/Language/spanish.xml
+END
+english.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/trunk/Run/Test/Data/Language/english.xml
+END

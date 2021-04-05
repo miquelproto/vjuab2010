@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/123/trunk/Bin
+END
+libxml2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/27/trunk/Bin/libxml2.dll
+END
+iconv.dll
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/27/trunk/Bin/iconv.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/27/trunk/Bin/zlib1.dll
+END

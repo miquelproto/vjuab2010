@@ -1,0 +1,57 @@
+/*----------------------------------------------------------------------------------*\
+ * CCore class                                                                      *
+ * Author: Marco Torres                                                             *
+ * Last Modification: 19/12/2010 - CStaticMeshManager -Miquel Rojas                 *
+ * Description:                                                                     *
+ * Clase Engine.                                                                    *
+ * Descripcion aqui                                                                 *
+\*----------------------------------------------------------------------------------*/
+
+#pragma once
+#ifndef INC_CORE_H_
+#define INC_CORE_H_
+
+#include "Base.h"
+#include <vector>
+#include <Windows.h>
+#include "Singleton.h"
+
+//--Forward declaration--
+class CRenderManager;
+class CFontManager;
+class CLanguageManager;
+class CInputManager;
+class CStaticMeshManager;
+//-----------------------
+
+class CCore: public CSingleton<CCore>{
+public:
+  //Consruct
+  CCore(): m_pRenderManager(0), m_pFontManager(0), m_pLanguageManager(0), m_pInputManager(0) {}
+  //Destruct
+	virtual ~CCore();
+
+  //functions
+  bool	Init		(SInitParams _params, HWND hWnd);
+	void	Update	(float elapsedTime);
+	void	Render	();
+  void  CheckActionsFromInputs();
+
+  //get set
+	void								SetRenderManager		(CRenderManager * rm)	{m_pRenderManager = rm;}
+  CRenderManager *		GetRenderManager		()										{return m_pRenderManager;}
+	CFontManager *			GetFontManager			()										{return m_pFontManager;}
+	CLanguageManager *	GetLanguageManager	()										{return m_pLanguageManager;}
+	CInputManager *			GetInputManager			()										{return m_pInputManager;}
+  CStaticMeshManager* GetStaticMeshManager()                    {return m_pStaticMeshManager;}
+
+private:
+  CRenderManager *	m_pRenderManager;
+	CFontManager*			m_pFontManager;
+	CLanguageManager*	m_pLanguageManager;
+	CInputManager*		m_pInputManager;
+	bool							m_bIsOk ;
+  CStaticMeshManager* m_pStaticMeshManager;
+};
+
+#endif //INC_CORE_H_

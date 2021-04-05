@@ -1,0 +1,7 @@
+<actor name="paladin" radius_bs="2.0" pos_bs="0.0 1.0 0.0" effect="cal3d" technique="cal3dTechnique">
+	<skeleton filename="paladin.csf"/>
+	<mesh filename="paladin_body.cmf"/>
+	<mesh filename="paladin_cape.cmf"/>
+ 	<mesh filename="paladin_loincloth.cmf"/>
+	<animation name="walk" filename="paladin_walk.caf"/>
+</actor>

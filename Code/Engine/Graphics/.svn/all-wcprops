@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/161/trunk/Code/Engine/Graphics
+END
+RenderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/82/trunk/Code/Engine/Graphics/RenderManager.h
+END
+Graphics.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/Code/Engine/Graphics/Graphics.vcproj
+END
+RenderManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/160/trunk/Code/Engine/Graphics/RenderManager.cpp
+END

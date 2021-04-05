@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/TODO
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/configure.in
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/acinclude.m4
+END
+cally.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/cally.vcproj
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/INSTALL
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/SConscript
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/COPYING
+END
+cally.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/cally.dsp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/README
+END
+cally.vcproj.Killos.Marco Torres.user
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/cally.vcproj.Killos.Marco%20Torres.user
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/examples/cally/stamp-h.in
+END

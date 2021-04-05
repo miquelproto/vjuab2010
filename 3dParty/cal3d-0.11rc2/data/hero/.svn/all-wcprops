@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero
+END
+readme_gfx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/readme_gfx.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/license.txt
+END
+hero.cmf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero.cmf
+END
+hero_idle.caf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_idle.caf
+END
+hero_body.tga
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_body.tga
+END
+hero_body_bump.dds
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_body_bump.dds
+END
+hero.csf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero.csf
+END
+hero_head2.tga
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_head2.tga
+END
+hero.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero.cfg
+END
+hero_mat0.xrf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_mat0.xrf
+END
+hero_head2_bump.dds
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_head2_bump.dds
+END
+hero_mat1.xrf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138/trunk/3dParty/cal3d-0.11rc2/data/hero/hero_mat1.xrf
+END

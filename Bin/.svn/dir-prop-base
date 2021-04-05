@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 80
+*.exe
+*.pdb
+Intermediate
+Lib
+videojuego_d.exe
+videojuego_d.ilk
+videojuego_d.pdb
+
+END

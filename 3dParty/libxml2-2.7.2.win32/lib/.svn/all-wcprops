@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/trunk/3dParty/libxml2-2.7.2.win32/lib
+END
+libxml2_a_dll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/3dParty/libxml2-2.7.2.win32/lib/libxml2_a_dll.lib
+END
+libxml2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/3dParty/libxml2-2.7.2.win32/lib/libxml2.lib
+END
+libxml2_a.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/trunk/3dParty/libxml2-2.7.2.win32/lib/libxml2_a.lib
+END
